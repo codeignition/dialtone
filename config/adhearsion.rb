@@ -21,7 +21,7 @@ Adhearsion.config do |config|
     dev.platform.logging.level = :debug
   end
   config.virginia.handler = RequestHandler
-  config.virginia.port = 9000
+  config.virginia.port = 9001
 
 
   ##
